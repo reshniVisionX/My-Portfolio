@@ -1,0 +1,11 @@
+.topContainer{
+    background : url("S:\subjects\Wallpaper\resh\profile\reshni.png");
+    height :100vh;
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     max-width: 99%;
+  max-height: 99%;
+     box-shadow: inset 0 0 0 2000px rgb(0, 0, 0,0.5);
+     margin-top: 20px;
+}

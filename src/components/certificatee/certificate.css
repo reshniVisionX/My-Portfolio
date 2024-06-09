@@ -1,0 +1,57 @@
+.certificates_title {
+    color: #f64c08;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+}
+
+.certificates_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.certi_divs {
+    border: 2px dotted;
+    border-color: aliceblue;
+    border-radius: 4px;
+    margin: 5px;
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 500px;
+    padding: 10px;
+    transition: transform 0.3s;
+}
+
+.certi_divs:hover {
+    transform: scale(1.05);
+    background-color: #f64c08;
+    color: white;
+    box-shadow: 0 0 10px #f4c1ad, 0 0 20px #f5d4c7, 0 0 30px #fcfcfc; 
+    transition: box-shadow 0.5s ease; 
+}
+
+.img_certi{
+    width:70px;
+    height: 70px;
+    display: inline-flex;
+    margin: 5px;
+}
+.certi_org{
+    color: white;
+    font-size: 800;
+}
+.certi_name{
+    color: azure;
+    font-size: 600;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 25px;
+}
+.certi_date{
+    color: rgb(103, 104, 105);
+    font-size:400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

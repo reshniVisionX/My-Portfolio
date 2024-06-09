@@ -1,0 +1,41 @@
+.project > img {
+    width: 350px;
+    height: 179px;
+  }
+  
+  .project {
+    transition: transform 100ms ease-in;
+    margin: 15px;
+  }
+  
+  .project:hover {
+    color: white !important;
+    background-color: #f64c08;
+    width: 350px;
+    height: 178px;
+    transform: scale(1.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .project__content {
+    width: 350px;
+    height: 178px;
+    padding: 10px;
+  }
+  
+  .project__content > h4 {
+    padding-bottom: 5px;
+    color: black;
+  }
+  
+  .project__content > p {
+    font-size: 15px;
+    color: rgb(252, 250, 250);
+  }
+  .project__content:hover{
+    background-color: #f64c08;
+     box-shadow: 0 0 10px #f4c1ad, 0 0 20px #f5d4c7, 0 0 30px #fcfcfc;
+    } 

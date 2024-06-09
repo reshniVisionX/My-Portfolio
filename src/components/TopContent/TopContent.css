@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+.topContent{
+    color: white;
+    position: relative;
+}
+.topContent_container{
+    position: absolute;
+    top:300px;
+    right: 150px;
+}
+.topContent_container > p{
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 20px;
+}
+
+.topContent_container > a > button{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+
+}
+.topContent_container > h1{
+    font-size: 50px;
+    font-family: "IBM Plex Serif",serif;
+}
+.topContent_downloadbtn{
+    color: aliceblue;
+    background-color: #f64c08;
+    font-size: 14px;
+    padding: 10px 30px;
+    font-family: "IBM Plex Serif",serif;
+    font-weight: 300;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.topContent_downloadbtn:hover{
+    color: #f64c08;
+    background-color: white;
+    font-weight: 600;
+}
+.topContent_workbtn{
+    color: white;
+    border:  1px solid white !important;
+    background-color: transparent;
+    font-size: 14px;
+    padding: 9px 45px;
+    font-family: "IBM Plex Serif",serif;
+    font-weight: 300;
+    cursor: pointer;
+}
+.topContent_workbtn:hover{
+    color:black;
+    background-color: white;
+    font-weight: 600;
+}
