@@ -66,7 +66,7 @@ export const ProjectContainer = () => {
     link:"https://github.com/reshniVisionX/WayTogo_web_using_react",
 },
 {
-    img:'/images/travelagency.png',
+    img:'/images/edutrip.png',
     title:"EduVenture Trip Planner Website",
     desc:"Developed an educational and IV trip agency where colleges and schools can find the best-suited and top-rated packages from a curated list of options, based on user ratings and reviews.",
     link:"https://github.com/reshniVisionX/EduVenture_Planner_Website",
