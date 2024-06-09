@@ -6,7 +6,7 @@ import './Experiance.css'
 const ExperianceContainer = () => {
   return (
     <Element className="experianceContainer" id="exp">
-        <h1 className='my_exp_title'>EXPERIANCE</h1>
+        <h1 className='my_exp_title'>EXPERIENCE</h1>
         <div className='experiance_info'>
             <ExperianceBox number="+0" title="Clients" />
             <ExperianceBox number="+12" title="Projects" style={{backgroundColor:"#f64c08"}}/>

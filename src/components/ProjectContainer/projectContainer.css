@@ -19,8 +19,8 @@
 }
 
 .project_title{
-    color:#f64c08;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#f64c08 !important;
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
 
 }
 
