@@ -67,8 +67,8 @@ export const ProjectContainer = () => {
 },
 {
     img:'/images/edutrip.png',
-    title:"EduVenture Trip Planner Website",
-    desc:"Developed an educational and IV trip agency where colleges and schools can find the best-suited and top-rated packages from a curated list of options, based on user ratings and reviews.",
+    title:"Restaurant Management System",
+    desc:"Developed a restaurant management system using the MERN stack, enabling online table booking, food ordering, and payment. Includes admin functionalities for dish management, customer orders, and report generation with JWT authentication.",
     link:"https://github.com/reshniVisionX/EduVenture_Planner_Website",
 },
   ]

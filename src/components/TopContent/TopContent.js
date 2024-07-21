@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 import './TopContent.css';
 
 export const TopContent = () => {
-  const resumeUrl = '../resume/Reshni S Resume.pdf'; 
+  const resumeUrl = 'https://drive.google.com/file/d/1cuaE2pJhTKF-1Lh834dQRo1W606JZ7_s/view?usp=drive_link'; 
 
   return (
     <div className='topContent'>
