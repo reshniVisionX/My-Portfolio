@@ -3,7 +3,7 @@
 Built my portfolio using react js.
 
 ## View here
-  (https://669d0eff9171a6794337a79b--meek-dusk-6d0ff1.netlify.app/)
+ # https://669d0eff9171a6794337a79b--meek-dusk-6d0ff1.netlify.app/
 =======
 # Getting Started with Create React App
 
